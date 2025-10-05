@@ -1,0 +1,11 @@
+Vehicle_ID,Type,Capacity_kg,Fuel_Efficiency_kmpl,Fixed_Cost_Rs,Cost_per_km_Rs
+V1,Mahindra Bolero Pickup,500,12.17,579.21,8.34
+V2,Tata 407,500,13.42,753.24,9.52
+V3,Mahindra Bolero Pickup,500,13.87,526.64,11.99
+V4,Tata 407,500,13.72,596.34,9.40
+V5,Mahindra Bolero Pickup,500,14.31,737.25,8.63
+V6,Tata 407,500,12.62,543.06,8.76
+V7,Mahindra Bolero Pickup,500,12.09,774.76,8.87
+V8,Tata 407,500,12.37,792.22,8.05
+V9,Mahindra Bolero Pickup,500,12.50,571.00,11.74
+V10,Tata 407,500,13.22,711.98,9.41

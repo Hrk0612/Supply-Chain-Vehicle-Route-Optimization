@@ -1,0 +1,11 @@
+Hub_ID,Name,City,Demand_kg,Latitude,Longitude,Storage_Capacity_kg
+H1,Jabalpur Hub,Jabalpur,1013,23.0004,77.8409,2419
+H2,Bhopal Hub,Bhopal,1130,24.9550,79.7170,2316
+H3,Indore Hub,Indore,803,24.4339,77.5683,2922
+H4,Gwalior Hub,Gwalior,1611,23.5229,77.7602,2439
+H5,Ujjain Hub,Ujjain,1182,23.0934,79.3652,2610
+H6,Sagar Hub,Sagar,1291,24.6396,78.9423,2949
+H7,Rewa Hub,Rewa,1459,24.1646,77.7061,2512
+H8,Satna Hub,Satna,1413,24.8434,78.8643,2408
+H9,Chhindwara Hub,Chhindwara,957,23.7241,77.7329,2849
+H10,Hoshangabad Hub,Hoshangabad,1216,24.2381,78.9713,2210
